@@ -1,0 +1,11 @@
+dbt_mlops:
+  outputs:
+    default:
+      dbname: mlops
+      host: localhost
+      pass: mysecretpassword
+      port: 5432
+      schema: target
+      threads: 1
+      type: postgres
+      user: postgres

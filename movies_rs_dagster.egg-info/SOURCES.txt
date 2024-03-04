@@ -1,0 +1,15 @@
+pyproject.toml
+setup.py
+movies_rs_dagster/__init__.py
+movies_rs_dagster.egg-info/PKG-INFO
+movies_rs_dagster.egg-info/SOURCES.txt
+movies_rs_dagster.egg-info/dependency_links.txt
+movies_rs_dagster.egg-info/requires.txt
+movies_rs_dagster.egg-info/top_level.txt
+movies_rs_dagster/assets/__init__.py
+movies_rs_dagster/assets/core/__init__.py
+movies_rs_dagster/assets/core/movies_users.py
+movies_rs_dagster/assets/recommender/__init__.py
+movies_rs_dagster/assets/recommender/model_helper.py
+movies_rs_dagster/assets/recommender/train_model.py
+movies_rs_dagster/resources/__init__.py
